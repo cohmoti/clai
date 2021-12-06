@@ -71,4 +71,14 @@
 
         PrimitiveCmd ::=
 
-        s [--server-id=string] [--spec=string] [--project=string] [--repo-path=path] [--watches=string] [--licenses] [--format=string] path
+        jfrog s [--server-id=string] [--spec=string] [--project=string] [--repo-path=path] [--watches=string] [--licenses] [--format=string] path
+
+        jfrog an [--server-id=string] [--project=string] [--repo-path=path] [--watches=string] [--licenses] [--format=string]
+
+        jfrog am [--server-id=string] [--project=string] [--repo-path=path] [--watches=string] [--licenses] [--format=string] [--exclude-test-deps]
+
+        jfrog ag [--server-id=string] [--project=string] [--repo-path=path] [--watches=string] [--licenses] [--format=string] [--exclude-test-deps] [--use-wrapper]
+
+        jfrog ap [--server-id=string] [--project=string] [--repo-path=path] [--watches=string] [--licenses] [--format=string]
+
+        jfrog ago [--server-id=string] [--project=string] [--repo-path=path] [--watches=string] [--licenses] [--format=string]
