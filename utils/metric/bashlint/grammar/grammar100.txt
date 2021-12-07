@@ -71,14 +71,14 @@
 
         PrimitiveCmd ::=
 
-        s [--server-id=string] [--spec=string] [--project=string] [--repo-path=path] [--watches=string] [--licenses] [--format=string] path
+        xr_s [--server-id=string] [--spec=string] [--project=string] [--repo-path=path] [--watches=string] [--licenses] [--format=string] path
 
-        an [--server-id=string] [--project=string] [--repo-path=path] [--watches=string] [--licenses] [--format=string]
+        xr_an [--server-id=string] [--project=string] [--repo-path=path] [--watches=string] [--licenses] [--format=string]
 
-        am [--server-id=string] [--project=string] [--repo-path=path] [--watches=string] [--licenses] [--format=string] [--exclude-test-deps]
+        xr_am [--server-id=string] [--project=string] [--repo-path=path] [--watches=string] [--licenses] [--format=string] [--exclude-test-deps]
 
-        ag [--server-id=string] [--project=string] [--repo-path=path] [--watches=string] [--licenses] [--format=string] [--exclude-test-deps] [--use-wrapper]
+        xr_ag [--server-id=string] [--project=string] [--repo-path=path] [--watches=string] [--licenses] [--format=string] [--exclude-test-deps] [--use-wrapper]
 
-        ap [--server-id=string] [--project=string] [--repo-path=path] [--watches=string] [--licenses] [--format=string]
+        xr_ap [--server-id=string] [--project=string] [--repo-path=path] [--watches=string] [--licenses] [--format=string]
 
-        ago [--server-id=string] [--project=string] [--repo-path=path] [--watches=string] [--licenses] [--format=string]
+        xr_ago [--server-id=string] [--project=string] [--repo-path=path] [--watches=string] [--licenses] [--format=string]
