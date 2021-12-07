@@ -75,9 +75,9 @@
 
         xr_an [--server-id=string] [--project=string] [--repo-path=path] [--watches=string] [--licenses] [--format=string]
 
-        xr_am [--server-id=string] [--project=string] [--repo-path=path] [--watches=string] [--licenses] [--format=string] [--exclude-test-deps]
+        xr_am [--server-id=string] [--project=string] [--repo-path=path] [--watches=string] [--licenses] [--format=string] [--exclude-test-deps=string]
 
-        xr_ag [--server-id=string] [--project=string] [--repo-path=path] [--watches=string] [--licenses] [--format=string] [--exclude-test-deps] [--use-wrapper]
+        xr_ag [--server-id=string] [--project=string] [--repo-path=path] [--watches=string] [--licenses] [--format=string] [--exclude-test-deps=string] [--use-wrapper=string]
 
         xr_ap [--server-id=string] [--project=string] [--repo-path=path] [--watches=string] [--licenses] [--format=string]
 
