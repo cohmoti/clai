@@ -15,7 +15,7 @@ import numpy as np
 from numpy.linalg import norm
 
 from bashlint import bash, data_tools
-from nlp_tools import constants, format_args, tokenizer
+from submission_code.nlp_tools import constants, format_args, tokenizer
 
 
 # --- Classifiers for estimating likelihood of local matches --- #

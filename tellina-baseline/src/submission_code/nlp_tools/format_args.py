@@ -13,7 +13,7 @@ from __future__ import print_function
 import datetime, re
 
 from bashlint import bash
-from nlp_tools import constants
+from submission_code.nlp_tools import constants
 
 
 # --- Slot filling value extractors --- #
